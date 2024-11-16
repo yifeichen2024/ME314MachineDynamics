@@ -1,4 +1,4 @@
-# ME314MachineDynamicss-
+# ME314MachineDynamics
 For the course Machine dynamics
 The colab notebook:
 
